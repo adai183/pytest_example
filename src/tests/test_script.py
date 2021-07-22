@@ -1,4 +1,4 @@
-from example.script import add
+from src.script import add
 
 
 def test_add():
